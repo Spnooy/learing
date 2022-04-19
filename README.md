@@ -1,2 +1,2 @@
 # learing
-学习中-------
+- learning 
